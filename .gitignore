@@ -8,3 +8,4 @@ test/dummy/solr
 test/dummy/public/uploads
 test/dummy/tmp/
 .sass-cache
+.rvmrc
